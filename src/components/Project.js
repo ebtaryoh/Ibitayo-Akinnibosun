@@ -25,7 +25,7 @@ function Project() {
             >
               <img src={NationalQuest} alt="National Quest" />
               <div>
-                <h4>Personal Portfolio</h4>
+                <h4>National Quest</h4>
                 <a href="https://national-quest.vercel.app/">
                   Live Demo<i className="fa-solid fa-arrow-right-long"></i>
                 </a>

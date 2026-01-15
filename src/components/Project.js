@@ -72,7 +72,7 @@ function Project() {
                 src="https://repository-images.githubusercontent.com/200318206/978d6f00-88dd-11ea-8727-1449bd91edc6"
                 alt="project-img"
               />
-              <div>
+              {/* <div>
                 <h4>Weather Application</h4>
                 <a
                   href="https://react-weather-app-github-io.vercel.app/"
@@ -80,10 +80,10 @@ function Project() {
                 >
                   Live Demo <i className="fa-solid fa-arrow-right-long"></i>
                 </a>
-              </div>
+              </div> */}
             </div>
            
-            <div
+            {/* <div
               className="project-card"
               data-aos="fade-left"
               data-aos-duration="1500"
@@ -102,7 +102,7 @@ function Project() {
                   Live Demo <i className="fa-solid fa-arrow-right-long"></i>
                 </a>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
